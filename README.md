@@ -16,7 +16,6 @@ from torchtext.datasets import multi30k
 multi30k.URL['train'] = 'https://raw.githubusercontent.com/A11MiND/pytorch-wmt14/main/training.tar.gz'
 multi30k.URL['valid'] = 'https://raw.githubusercontent.com/A11MiND/pytorch-wmt14/main/validation.tar.gz'
 multi30k.URL['test'] = 'https://raw.githubusercontent.com/A11MiND/pytorch-wmt14/main/test.tar.gz'
-multi30k.MD5['test'] = '2bb23443ebb9bca788a355f2ad0adbc2'
 ```
 
 ### Disclaimer: All rights belong to the authors of the original dataset under the original license.
