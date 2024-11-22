@@ -4,9 +4,9 @@ Patch for PyTorch's machine translation dataset (WMT14 DE-EN). WMT14 From [Huggi
 
 用WMT14的数据"冒充Multi30k。
 
-Train samples: 228000
-Validation samples: 3000
-Test samples: 3003
+Train samples: 228000  
+Validation samples: 3000  
+Test samples: 3003  
 
 To fix this, add these lines before using the dataset:
 
