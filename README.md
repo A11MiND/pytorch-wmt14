@@ -4,6 +4,10 @@ Patch for PyTorch's machine translation dataset (WMT14 DE-EN).
 WMT14 From Hugging Face https://huggingface.co/datasets/wmt/wmt14
 用WMT14的数据"冒充"Multi30k的格式
 
+Train samples: 228000
+Validation samples: 3000
+Test samples: 3003
+
 To fix this, add these lines before using the dataset:
 
 ```python
